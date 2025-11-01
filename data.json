@@ -92,7 +92,7 @@
             "technologies": [
                 "C++"
             ],
-            "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
+            "description": "2D and 3D cross-platform game engine. Additionally has C# and Python code."
         },
         {
             "name": "projectM",
